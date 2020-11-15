@@ -3,7 +3,7 @@ package com.furion;
 public class Calculator {
     public int add(int a, int b)
     {
-        return a+b;
+        return 2*(a+b);
     }
 
     public int multiply(int a, int b)
